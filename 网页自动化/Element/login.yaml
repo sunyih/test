@@ -1,0 +1,12 @@
+#登录
+denglu: user_login
+#账号登录class
+zhanghao: 账户登录
+  #输入账号iclass
+shuru: itxt
+#输入密码 id
+mima: nloginpwd
+
+hudong: JDJRV-slide-inner JDJRV-slide-btn
+#点击登录
+jinru: loginsubmit
