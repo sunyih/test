@@ -1,0 +1,111 @@
+[ {
+  "uid" : "6d5669d68800b7ba",
+  "name" : "test_3",
+  "time" : {
+    "start" : 1566181792070,
+    "stop" : 1566181792071,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a189d1dc6e0d336e",
+  "name" : "test_6",
+  "time" : {
+    "start" : 1566181792367,
+    "stop" : 1566181792368,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "76bd49096a70fc64",
+  "name" : "test_2",
+  "time" : {
+    "start" : 1566181792042,
+    "stop" : 1566181792043,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e5366a875d59055",
+  "name" : "test_4",
+  "time" : {
+    "start" : 1566181792293,
+    "stop" : 1566181792295,
+    "duration" : 2
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e2f31e1101da380",
+  "name" : "test_5",
+  "time" : {
+    "start" : 1566181792334,
+    "stop" : 1566181792334,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "11d5438c2a175247",
+  "name" : "test_1",
+  "time" : {
+    "start" : 1566181792012,
+    "stop" : 1566181792013,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b412e4a0d389b1ea",
+  "name" : "test_10",
+  "time" : {
+    "start" : 1566181792474,
+    "stop" : 1566181792475,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd1cc294e57e367b",
+  "name" : "test_7",
+  "time" : {
+    "start" : 1566181792400,
+    "stop" : 1566181792400,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31c0d8423309217a",
+  "name" : "test_case",
+  "time" : {
+    "start" : 1566181792515,
+    "stop" : 1566181792518,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "337272f0e82e51fa",
+  "name" : "test_8",
+  "time" : {
+    "start" : 1566181792422,
+    "stop" : 1566181792422,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dff261a58a69f2d5",
+  "name" : "test_9",
+  "time" : {
+    "start" : 1566181792439,
+    "stop" : 1566181792440,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+} ]

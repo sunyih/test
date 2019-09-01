@@ -1,0 +1,92 @@
+{
+  "uid" : "a189d1dc6e0d336e",
+  "name" : "test_6",
+  "fullName" : "生成报告#test_6",
+  "historyId" : "0376b9a9f5f046d34b947977dd6733fc",
+  "time" : {
+    "start" : 1566181792367,
+    "stop" : 1566181792368,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块三"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "生成报告"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3VGE1PR"
+  }, {
+    "name" : "thread",
+    "value" : "11384-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "生成报告"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "e158fe4f8ed02517",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181628294,
+        "stop" : 1566181628295,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e5a79277db89428a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181559755,
+        "stop" : 1566181559756,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4e38f7e8ff413fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181506270,
+        "stop" : 1566181506270,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8e106a43ebba5bf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566180514438,
+        "stop" : 1566180514438,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a189d1dc6e0d336e.json",
+  "parameterValues" : [ ]
+}

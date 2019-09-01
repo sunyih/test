@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 0 > 21344242",
+      "children" : [ {
+        "name" : "test_3",
+        "uid" : "6d5669d68800b7ba",
+        "parentUid" : "721d29622631977ab5e871e69af74e7e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566181792070,
+          "stop" : 1566181792071,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "721d29622631977ab5e871e69af74e7e"
+    }, {
+      "name" : "AssertionError: assert '你好' == 'china'\n  - 你好\n  + china",
+      "children" : [ {
+        "name" : "test_4",
+        "uid" : "4e5366a875d59055",
+        "parentUid" : "0715efdb2be00a6cd05c9b1e34ba6a17",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566181792293,
+          "stop" : 1566181792295,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0715efdb2be00a6cd05c9b1e34ba6a17"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

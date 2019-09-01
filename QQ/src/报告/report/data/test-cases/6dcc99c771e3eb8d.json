@@ -1,0 +1,55 @@
+{
+  "uid" : "6dcc99c771e3eb8d",
+  "name" : "test_1",
+  "fullName" : "生成报告#test_1",
+  "historyId" : "72f0455a6bf4a22252181111b4394b29",
+  "time" : {
+    "start" : 1566180514115,
+    "stop" : 1566180514115,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块一"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "生成报告"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3VGE1PR"
+  }, {
+    "name" : "thread",
+    "value" : "12652-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "生成报告"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6dcc99c771e3eb8d.json",
+  "parameterValues" : [ ]
+}
